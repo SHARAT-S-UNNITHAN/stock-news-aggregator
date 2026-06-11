@@ -1,4 +1,3 @@
-I'll create a professional README.md for your Stock News Aggregator project.
 
 ```powershell
 cd C:\ShaLearning\stock-news-aggregator
