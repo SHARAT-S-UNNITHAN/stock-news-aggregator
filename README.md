@@ -1,11 +1,4 @@
 
-```powershell
-cd C:\ShaLearning\stock-news-aggregator
-notepad README.md
-```
-
-**Paste this complete README:**
-
 ```markdown
 # 📈 StockPulse - Stock News Feed Aggregator
 
